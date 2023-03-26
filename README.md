@@ -6,11 +6,12 @@
  
   👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/10134140/" target="_blank"> Via Hub </a> as Principal Software Engineer at Logistics Area </br>
   🌱 I’m trying to learn Go and Service Mesh with Istio </br>
-  👉🏽 I need to focus on learning frontent, this is my main gap 😟 </br>
+  🎯 I need to focus on learning frontent, this is my main gap 😟 </br>
+  ⌛️ I wish I had more time to code </br>
   💬 Ask me about Life, The Universe and Everything </br>
   📫 How to reach me: <a href="https://www.linkedin.com/in/fbiopereira/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/> </a>  
-</h3>
+</h4>
 
 ###
 
