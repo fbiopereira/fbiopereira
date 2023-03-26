@@ -5,7 +5,7 @@
 <h4 align="left">
  
   👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/10134140/" target="_blank"> Via Hub </a> as Principal Software Engineer at Logistics Area </br>
-  🌱 I’m learning Go and Service Mesh with Istio </br>
+  🌱 I’m trying to learn Go and Service Mesh with Istio </br>
   👉🏽 I need to focus on learning frontent, this is my main gap 😟 </br>
   💬 Ask me about Life, The Universe and Everything </br>
   📫 How to reach me: <a href="https://www.linkedin.com/in/fbiopereira/" target="_blank">
