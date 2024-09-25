@@ -4,7 +4,7 @@
 
 <h4 align="left">
  
-  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/ambevtech/mycompany/" target="_blank"> Ambev Tech </a> as Staff Engineer at Supply Tower </br>
+  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/ambevtech/" target="_blank"> Ambev Tech </a> as Staff Engineer at Supply Tower </br>
   🌱 I’m moving from Java to C# </br>
   🎯 I need to focus on learning frontent, this is my main gap 😟 </br>
   ⌛️ I wish I had more time to code </br>
