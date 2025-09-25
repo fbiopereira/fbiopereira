@@ -4,10 +4,9 @@
 
 <h4 align="left">
  
-  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/ambevtech/" target="_blank"> Ambev Tech </a> as Staff Engineer at Supply Tower </br>
-  🌱 I’m moving from Java to C# </br>
-  🎯 I need to focus on learning frontent, this is my main gap 😟 </br>
-  ⌛️ I wish I had more time to code </br>
+  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/pottencial-seg/" target="_blank"> Pottencial Seguradora </a> as Solutions Architect </br>
+  🌱 I’m trying to get back to code. I wish I had more time to do it </br>
+  🎯 I need to focus on learning frontent, this is my main gap 😟 </br>  
   💬 Ask me about Life, The Universe and Everything </br>
   📫 How to reach me: <a href="https://www.linkedin.com/in/fbiopereira/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/> </a>  
