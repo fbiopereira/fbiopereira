@@ -4,7 +4,7 @@
 
 <h4 align="left">
  
-  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/bradesco/" target="_blank"> Banco Bradesco </a> as Solutions Architect </br>
+  👩🏾‍💻 I’m currently working for <a href="https://www.linkedin.com/company/bradesco/" target="_blank">Banco Bradesco</a> as Solutions Architect </br>
   🌱 I’m trying to get back to code. I wish I had more time to do it </br>
   🎯 I need to focus on learning frontent, this is my main gap 😟 </br>  
   💬 Ask me about Life, The Universe and Everything </br>
